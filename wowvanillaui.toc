@@ -3,4 +3,4 @@
 ## Title: Infi UI
 ## Notes: make the ui better.
 
-infiui.lua
+wowvanillaui.lua
